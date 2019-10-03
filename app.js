@@ -26,6 +26,10 @@ let foods = [
     {
         id: 3,
         name: 'Steak'
+    },
+    {
+        id: 4,
+        name: 'New food'
     }
 ];
 
